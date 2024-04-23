@@ -1,0 +1,35 @@
+[33mcommit fa428cce58908c2bda30a1f702d4ede39101ddb2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: flavio <flavio010101@outlook.com>
+Date:   Tue Apr 23 16:16:46 2024 -0300
+
+    Remembering how to commit
+
+[33mcommit 8bf12e66da2e6ea538d86202fc884723eb88b25a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Flavio <flavio010101@outlook.com>
+Date:   Tue Dec 19 13:59:02 2023 -0300
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 9af697e51856ca87507b5d5ed6c84bd128d6456f[m
+Author: Flavio <flavio010101@outlook.com>
+Date:   Tue Dec 19 13:50:34 2023 -0300
+
+    Add test.txt
+
+[33mcommit bdcc69e3fee41eee10df5e9d150a9ad815996ec3[m
+Author: chrystopherFLA <flavio010101@outlook.com>
+Date:   Mon Apr 18 19:53:49 2022 -0300
+
+    Edit README.md and hello_world.txt
+
+[33mcommit d63ba2e61b16e960775a4fa02a998a45dc310a5a[m
+Author: chrystopherFLA <flavio010101@outlook.com>
+Date:   Mon Apr 18 19:42:49 2022 -0300
+
+    Add hello_world.txt
+
+[33mcommit 3dbbe42857753ddb7f9493f9f3471f3dd9edb7cc[m
+Author: Flavio Ferreira <81656673+chrystopherFLA@users.noreply.github.com>
+Date:   Mon Apr 18 19:35:08 2022 -0300
+
+    Initial commit
